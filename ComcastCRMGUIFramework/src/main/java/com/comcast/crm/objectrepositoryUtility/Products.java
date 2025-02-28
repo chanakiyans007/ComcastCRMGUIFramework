@@ -12,6 +12,12 @@ public class Products {
 	@FindBy(name="searchBtn")
 	private WebElement ele55;
 
+
 	@FindBy(name="searchnew")
 	private WebElement ele67;
+
+	@FindBy(name="search")
+	private WebElement ele66;
+	
+
 }
